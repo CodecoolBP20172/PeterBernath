@@ -1,0 +1,14 @@
+Peter Bernath 18.6 - 28.6.2018
+
+[2] - Tech Interview - Lensa
+[2] - Tech Interview - Stylers
+[2] - Tech Interview - Morgan Stanley
+[2] - Personal Project - GraphQL
+~~~~~~~~
+[8] - Summary
+~~~~~~~~
+
+I prepared 2 days the weekend before SI week for Lensa interview, then 2 days for Stylers and 2 days for Morgan Stanley. 
+On my TW week I planned to learn how to use GraphQL on a sample project and try to implement it on my own project - Farmer's Market. 
+As I got ill, 2 days fell out of my plan and I also got stuck in the middle of the sample project for GraphQL, so I spent half day debugging, 
+that's the reason I could't finish the sample project on time.
